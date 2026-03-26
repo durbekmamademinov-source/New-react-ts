@@ -10,7 +10,7 @@ function Banner() {
                       <h1 className="text-4xl md:text-5xl font-bold mb-4">
                           Build Your Future 🚀
                       </h1>
-                      <p className="text-gray-400 mb-6">
+                      <p className="text-gray-400 mb-7">
                           Zamonaviy web saytlar yaratish uchun eng yaxshi joy. Biz bilan o‘rgan va rivojlan!
                       </p>
 
