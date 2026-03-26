@@ -4,7 +4,7 @@ function Login() {
       <div className="min-h-screen flex items-center justify-center bg-gray-900">
           <div className="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md">
 
-              <h2 className="text-2xl font-bold text-center mb-6">
+              <h2 className="text-2xl font-bold text-center mb-5">
                   Login
               </h2>
 
